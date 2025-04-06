@@ -44,25 +44,7 @@ Understanding the relationship between stone composition and clinical variables 
   - Variability in same-day urine samples (e.g., CV for Ca24) differed among stone types, with ANOVA revealing significant differences (F = 4.4143, p = 0.01321) and Tukey HSD tests confirming significant pairwise differences.
 - **Visualization Outputs:**  
   - Generated plots (saved in the `plots/` directory) provide a clear visual summary of the data distributions and variability trends.
-
-## Project Structure
-RenalStoneInsights/
-├── data/
-│   ├── raw/               
-│   └── processed/         
-├── notebooks/             
-├── src/                   
-│   ├── data_cleaning.py
-│   ├── analysis.py
-│   ├── modeling.py
-│   └── visualization.py
-├── tests/                 
-├── .gitignore             
-├── LICENSE                
-├── README.md              
-├── requirements.txt       
-├── setup.py               
-└── main.py                
+             
 
 ## How to Run
 1. **Clone the Repository:**
