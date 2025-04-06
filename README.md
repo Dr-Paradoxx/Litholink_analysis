@@ -1,4 +1,4 @@
-# RenalStoneInsights
+# Litholink Analysis
 
 ## Overview
 The **RenalStoneInsights** project is designed to analyze clinical data derived from the Litholink study, focusing on the impact of kidney stone type and pH levels on key biochemical markers and patient demographics. This repository contains tools to clean raw Excel data, perform rigorous statistical analyses, build predictive models, and generate insightful visualizations—all aimed at improving the understanding and management of kidney stone disease.
